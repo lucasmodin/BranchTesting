@@ -11,5 +11,8 @@ public class Main {
 
         dog.showMood(true);
         cat.showMood(false);
+
+        dog.showMood(false);
+        cat.showMood(true);
     }
 }
