@@ -5,5 +5,8 @@ public class Main {
 
         dog.makeSound();
         cat.makeSound();
+
+        dog.eat("Oskar");
+        cat.eat("Rasmus");
     }
 }
